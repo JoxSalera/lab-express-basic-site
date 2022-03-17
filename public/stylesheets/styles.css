@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+body {
+    background-color: black;
+    background-size: cover;
+    color: yellow;
+    font-family: 'Special Elite', cursive;
+    background-image: url("../images/nevermind.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    margin-left: 6.5rem;
+}
+
+a {
+    padding: 10px;
+    color: yellow;  
+    text-decoration: none;
+}
+
+ul {
+    display: inline-block;
+    position: absolute;
+    top: 8px;
+    left: 60px;
+    list-style: none;
+    font-size: 40px;
+    color: yellow
+}
+
+.container {
+    position: relative;
+    /* text-align: center; */
+}
+
+.content {
+    position: absolute;
+    text-align: justify;
+    bottom: 100px;
+    margin: 7rem;
+    font-size: 30px;
+}
+
+.content2 {
+    position: absolute;
+    text-align: justify;
+    bottom: 100px;
+    left: 125px;
+    font-size: 25px;
+}
+
+
+ .group {
+    width: 87%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.greatest {
+    width: 87%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
